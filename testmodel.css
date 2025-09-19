@@ -373,7 +373,6 @@ input[type="radio"]:checked + .gallery-item img {
 
 body {
     font-family: tahoma;
-    padding: 0;
   }
   
   .main-timeline {
